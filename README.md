@@ -1,27 +1,47 @@
-👨‍💻 Welcome to My GitHub! 👨‍💻
-I'm a web design student passionate about learning and growing in the development world. Here, you'll find my projects, where I document my progress and learning journey. 🚀
+# 🌟 Hi there! I'm [Your Name] 👋
 
-🌟 About Me
-🎓 Web Application Development student.
-💻 Currently learning and practicing HTML, CSS, Java, JavaScript, and some Python.
-🛠️ Always eager to improve and explore new technologies.
-🗂️ Featured Projects
-🔥 Plex Renamer
-My first big project, Plex Renamer, is a tool I developed to efficiently organize your media files:
+Welcome to my GitHub profile! I am a **web design student** passionate about learning and improving my skills every day. 🚀 Here, you'll find my learning journey and the projects I'm working on. 🌱
 
-📂 Rename and organize series, movies, and documents.
-🗃️ Create dedicated folders for extra content.
-🛠️ Designed to structure your collection in a way that Plex can easily understand.
-🌟 View the project here (Replace with the actual link)
+---
 
-🚀 Skills & Technologies
-Frontend:
-HTML, CSS
-Backend:
-Java, JavaScript
-Others:
-Python (basic level)
+## 🖥️ About Me
+- 🎓 **Web design student** focused on continuous improvement.
+- 💡 Currently learning **HTML**, **CSS**, **JavaScript**, **Java**, and a bit of **Python**.
+- 🛠️ Working on projects that combine creativity and functionality.
+- 📚 I love organizing my work to make it useful and easy to navigate.
 
-📌 Goals
-Regularly upload my progress and projects to share my learning journey.
-Become a professional developer capable of tackling challenging projects.
+---
+
+## 💻 Featured Projects
+### 📁 [**Plex Renamer** (My First Big Project)]([https://github.com/tu-usuario/plex-renamer](https://github.com/Marsdix/Plex-Renamer))
+A project I created to help organize your series, movies, and documents in a way that is compatible with **Plex**. 🗂️
+
+**Key Features**:
+- Automatically rename series based on your preferences.
+- Create folders for series, movies, and documents.
+- Add extra folders to keep everything neatly organized.
+- Perfect for maintaining a media library that is easy for **Plex** to understand.
+
+🚧 *This project is still in development, but I’ll be sharing updates and improvements soon. Stay tuned!* 🚀
+
+---
+
+## 🛠️ Skills
+- **Languages**: 
+  - HTML
+  - CSS
+  - JavaScript
+  - Java
+  - A little bit of Python
+- **Interests**: Web design, file organization, functional development, and continuous learning.
+
+---
+
+## 🌟 What Can You Expect from My GitHub?
+- Practical projects to solve real-world problems.
+- Regular updates on my progress as a web design student.
+- New ideas and improvements for my existing projects.
+
+---
+
+Thank you for visiting my profile! 😊 I hope you find something interesting in my work. ⭐ If you like what I do, consider giving my projects a star.
