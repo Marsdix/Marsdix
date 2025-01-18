@@ -1,4 +1,4 @@
-# 🌟 Hi there! I'm [Your Name] 👋
+# 🌟 Hi there! I'm Marsdix 👋
 
 Welcome to my GitHub profile! I am a **web design student** passionate about learning and improving my skills every day. 🚀 Here, you'll find my learning journey and the projects I'm working on. 🌱
 
@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I am a **web design student** passionate about lea
 ---
 
 ## 💻 Featured Projects
-### 📁 [**Plex Renamer** (My First Big Project)]([https://github.com/tu-usuario/plex-renamer](https://github.com/Marsdix/Plex-Renamer))
+### 📁 [**Plex Renamer** (My First Big Project)](https://github.com/Marsdix/Plex-Renamer)
 A project I created to help organize your series, movies, and documents in a way that is compatible with **Plex**. 🗂️
 
 **Key Features**:
