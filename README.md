@@ -45,3 +45,39 @@ A project I created to help organize your series, movies, and documents in a way
 ---
 
 Thank you for visiting my profile! 😊 I hope you find something interesting in my work. ⭐ If you like what I do, consider giving my projects a star.
+
+
+# Marsdix
+
+Estudiante de **Desarrollo de Aplicaciones Web** con interés en resolver problemas reales a través del código. Aprendo construyendo cosas que me resultan útiles.
+
+---
+
+## Stack actual
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+---
+
+## Proyectos
+
+### [Plex Renamer](https://github.com/Marsdix/Plex-Renamer)
+Herramienta de organización de bibliotecas multimedia compatible con **Plex Media Server**.
+
+- Renombrado automático de series y películas siguiendo el formato que Plex reconoce
+- Generación de estructura de carpetas para series, películas y documentos
+- Soporte para carpetas adicionales personalizadas
+
+> En desarrollo activo.
+
+---
+
+## Sobre este perfil
+
+Aquí documento mi progreso como desarrollador: proyectos propios, prácticas y experimentos. El código refleja en qué punto estoy, no dónde quiero llegar.
+
+Si algo te resulta útil, deja una ⭐.
