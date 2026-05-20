@@ -38,17 +38,53 @@ Outside of code: music on, controller in hand, or elbow-deep in some piece of ha
 
 ## Projects
 
-**[El Hato y el Garabato](https://github.com/Marsdix/El-Hato-y-el-Garabato)** · React · Vite · Framer Motion  
-Final course project. Full SPA redesign of a real family winery's WordPress site — built from scratch with custom animations, bilingual support, dark mode, and deployed to production.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**[Plex Renamer](https://github.com/Marsdix/Plex-Renamer)** · Python  
+### 🍷 [El Hato y el Garabato](https://github.com/Marsdix/El-Hato-y-el-Garabato)
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=flat-square&logo=framer&logoColor=white)
+![Deployed](https://img.shields.io/badge/deployed-live-brightgreen?style=flat-square)
+
+Final course project. Full SPA redesign of a real family winery's WordPress site — custom animations, bilingual support, dark mode, and deployed to production.
+
+</td>
+<td width="50%" valign="top">
+
+### 🗂️ [Plex Renamer](https://github.com/Marsdix/Plex-Renamer)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Status](https://img.shields.io/badge/status-in_development-orange?style=flat-square)
+
 A CLI tool I built because I needed it. Renames and organizes media libraries to match Plex's naming conventions automatically.
 
-**[Guardianes del Paraíso](https://github.com/Marsdix/Guardianes-del-Paraiso)** · WordPress · CSS  
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚔️ [Guardianes del Paraíso](https://github.com/Marsdix/Guardianes-del-Paraiso)
+
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
 First dive into WordPress — theme customization, layouts, and figuring out how the whole CMS ecosystem works.
 
-**[PaginaGijon](https://github.com/Marsdix/PaginaGijon)** · HTML  
+</td>
+<td width="50%" valign="top">
+
+### 🏙️ [PaginaGijon](https://github.com/Marsdix/PaginaGijon)
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
 Where it all started. A static page — the first thing I ever built.
+
+</td>
+</tr>
+</table>
 
 ---
 
