@@ -2,9 +2,9 @@
 
 # Marsdix
 
-**Web Application Developer in training**
+**IT guy who crossed over to code — and stayed.**
 
-Building things that solve real problems — one project at a time.
+I tinker with networks, build for the web, and occasionally break things on purpose.
 
 [![GitHub followers](https://img.shields.io/github/followers/Marsdix?style=flat-square&color=4a9eff&labelColor=1a1a2e)](https://github.com/Marsdix)
 [![Profile views](https://komarev.com/ghpvc/?username=Marsdix&style=flat-square&color=4a9eff)](https://github.com/Marsdix)
@@ -15,7 +15,9 @@ Building things that solve real problems — one project at a time.
 
 ## About
 
-Student of Web Application Development, focused on building practical tools and understanding systems from the ground up. I learn by doing — every project here exists because I needed it, or wanted to understand how it worked.
+I started in IT — networks, hardware, keeping things running. At some point I wanted to understand the software side too, so I enrolled in a Web Application Development course and built my way through it project by project.
+
+Outside of code: music on, controller in hand, or elbow-deep in some piece of hardware I probably didn't need to open.
 
 ---
 
@@ -23,11 +25,12 @@ Student of Web Application Development, focused on building practical tools and 
 
 <div align="center">
 
-| Frontend | Backend | Tools |
+| Frontend | Backend | Tools & Infra |
 |:---:|:---:|:---:|
 | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
 | ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | | |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+| ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | | ![Networking](https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logoColor=white) |
 
 </div>
 
@@ -35,31 +38,17 @@ Student of Web Application Development, focused on building practical tools and 
 
 ## Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**[El Hato y el Garabato](https://github.com/Marsdix/El-Hato-y-el-Garabato)** · React · Vite · Framer Motion  
+Final course project. Full SPA redesign of a real family winery's WordPress site — built from scratch with custom animations, bilingual support, dark mode, and deployed to production.
 
-### 🗂 [Plex Renamer](https://github.com/Marsdix/Plex-Renamer)
+**[Plex Renamer](https://github.com/Marsdix/Plex-Renamer)** · Python  
+A CLI tool I built because I needed it. Renames and organizes media libraries to match Plex's naming conventions automatically.
 
-![Status](https://img.shields.io/badge/status-in_development-orange?style=flat-square)
-![Language](https://img.shields.io/badge/language-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+**[Guardianes del Paraíso](https://github.com/Marsdix/Guardianes-del-Paraiso)** · WordPress · CSS  
+First dive into WordPress — theme customization, layouts, and figuring out how the whole CMS ecosystem works.
 
-CLI tool to organize media libraries in a format compatible with **Plex Media Server**.
-
-- Auto-rename series and movies to match Plex naming conventions
-- Generate folder structure for series, movies, and documents
-- Support for custom additional folders
-
-</td>
-<td width="50%" valign="top">
-
-### More coming soon
-
-Currently working on new projects as part of my studies. Check back later.
-
-</td>
-</tr>
-</table>
+**[PaginaGijon](https://github.com/Marsdix/PaginaGijon)** · HTML  
+Where it all started. A static page — the first thing I ever built.
 
 ---
 
@@ -77,6 +66,6 @@ Currently working on new projects as part of my studies. Check back later.
 
 <div align="center">
 
-*If something here is useful to you, a ⭐ is always appreciated.*
+*Built from curiosity. If something here is useful to you, a ⭐ goes a long way.*
 
 </div>
