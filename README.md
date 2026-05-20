@@ -88,13 +88,11 @@ Where it all started. A static page — the first thing I ever built.
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Marsdix&theme=tokyonight&hide_border=true&background=0d1117&stroke=4a9eff&ring=4a9eff&fire=ff6b6b&currStreakLabel=4a9eff&sideLabels=4a9eff&dates=6e7681)](https://github.com/Marsdix)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marsdix&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4a9eff&langs_count=6)](https://github.com/Marsdix)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Marsdix&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=4a9eff&line=4a9eff&point=ffffff)](https://github.com/Marsdix)
 
 </div>
 
