@@ -42,7 +42,7 @@ Outside of code: music on, controller in hand, or elbow-deep in some piece of ha
 <tr>
 <td width="50%" valign="top">
 
-### 🍷 [El Hato y el Garabato]([https://github.com/Marsdix/El-Hato-y-el-Garabato](https://github.com/Marsdix/el-hato-showcase))
+### 🍷 [El Hato y el Garabato](https://github.com/Marsdix/El-Hato-y-el-Garabato](https://github.com/Marsdix/el-hato-showcase))
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
