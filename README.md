@@ -15,7 +15,7 @@ I tinker with networks, build for the web, and occasionally break things on purp
 
 ## About
 
-I started in IT — networks, hardware, keeping things running. At some point I wanted to understand the software side too, so I enrolled in a Web Application Development course and built my way through it project by project.
+I started in IT — networks, hardware, keeping things running. At some point I wanted to understand the software side too, so I enrolled in a Web Application Development course and built my way through it project by project — now wrapping it up with a full production project.
 
 Outside of code: music on, controller in hand, or elbow-deep in some piece of hardware I probably didn't need to open.
 
@@ -32,6 +32,7 @@ Outside of code: music on, controller in hand, or elbow-deep in some piece of ha
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | | ![Networking](https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logoColor=white) |
 | ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white) | | |
+| ![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=white) | ![Sanity](https://img.shields.io/badge/Sanity_CMS-F03E2F?style=for-the-badge&logo=sanity&logoColor=white) | |
 
 </div>
 
