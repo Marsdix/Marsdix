@@ -44,12 +44,13 @@ Outside of code: music on, controller in hand, or elbow-deep in some piece of ha
 
 ### 🍷 [El Hato y el Garabato](https://github.com/Marsdix/el-hato-showcase)
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro_6-FF5D01?style=flat-square&logo=astro&logoColor=white)
+![React](https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=flat-square&logo=framer&logoColor=white)
+![Sanity](https://img.shields.io/badge/Sanity_CMS-F03E2F?style=flat-square&logo=sanity&logoColor=white)
 ![Deployed](https://img.shields.io/badge/deployed-live-brightgreen?style=flat-square)
 
-Final course project. Full SPA redesign of a real family winery's WordPress site — custom animations, bilingual support, dark mode, and deployed to production.
+Final course project. Full JAMstack redesign of a real family winery's WordPress site — Astro 6 SSG with React 18 Islands, custom animations, bilingual ES/EN, dark mode, and WCAG AA accessibility.
 
 </td>
 <td width="50%" valign="top">
