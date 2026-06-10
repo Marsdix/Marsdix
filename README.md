@@ -27,11 +27,11 @@ Outside of code: music on, controller in hand, or elbow-deep in some piece of ha
 
 | Frontend | Backend | Tools & Infra |
 |:---:|:---:|:---:|
-| ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
-| ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+| ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | | ![Networking](https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logoColor=white) |
-| ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white) | | |
+| ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white) | | ![ARM64](https://img.shields.io/badge/ARM64-0091BD?style=for-the-badge&logo=arm&logoColor=white) |
 | ![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=white) | ![Sanity](https://img.shields.io/badge/Sanity_CMS-F03E2F?style=for-the-badge&logo=sanity&logoColor=white) | |
 
 </div>
@@ -42,6 +42,19 @@ Outside of code: music on, controller in hand, or elbow-deep in some piece of ha
 
 <table>
 <tr>
+<td width="50%" valign="top">
+
+### 🔋 [PNut — SAI Monitor](https://github.com/Marsdix/PNut)
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML_vanilla-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Linux](https://img.shields.io/badge/ARM64-0091BD?style=flat-square&logo=arm&logoColor=white)
+![NUT](https://img.shields.io/badge/NUT-2.8.0-blue?style=flat-square)
+![Deployed](https://img.shields.io/badge/deployed-live-brightgreen?style=flat-square)
+
+Read-only bridge between NUT (`upsd`) and HTTP/JSON, with a web dashboard to monitor UPS devices connected via USB to an Orange Pi. Static Go binary (~6 MB), zero dependencies, SSDP LAN autodiscovery, token Bearer auth, and a fully automated bootstrap that detects and configures the UPS on every boot.
+
+</td>
 <td width="50%" valign="top">
 
 ### 🍷 [El Hato y el Garabato](https://github.com/Marsdix/el-hato-showcase)
@@ -55,6 +68,8 @@ Outside of code: music on, controller in hand, or elbow-deep in some piece of ha
 Final course project. Full JAMstack redesign of a real family winery's WordPress site — Astro 6 SSG with React 18 Islands, custom animations, bilingual ES/EN, dark mode, and WCAG AA accessibility.
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🗂️ [Plex Renamer](https://github.com/Marsdix/Plex-Renamer)
@@ -65,8 +80,6 @@ Final course project. Full JAMstack redesign of a real family winery's WordPress
 A CLI tool I built because I needed it. Renames and organizes media libraries to match Plex's naming conventions automatically.
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### ⚔️ [Guardianes del Paraíso](https://github.com/Marsdix/Guardianes-del-Paraiso)
@@ -77,6 +90,8 @@ A CLI tool I built because I needed it. Renames and organizes media libraries to
 First dive into WordPress — theme customization, layouts, and figuring out how the whole CMS ecosystem works.
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🏙️ [PaginaGijon](https://github.com/Marsdix/PaginaGijon)
@@ -86,6 +101,7 @@ First dive into WordPress — theme customization, layouts, and figuring out how
 Where it all started. A static page — the first thing I ever built.
 
 </td>
+<td width="50%" valign="top"></td>
 </tr>
 </table>
 
